@@ -46,20 +46,6 @@ This architecture is defined in the `Net` model.
 
 ---
 
-## 🔧 Project Structure
-
-```
-prepare_data.py       # Prepare & partition HAR dataset
-server.py             # Federated server using FedAvg
-client.py             # Client-side PyTorch training with FLWR
-utils.py              # Dataset loaders & partition helpers
-model.py              # Alternate HARNet architecture
-audit.py              # SHA-256 model weight hashing per round
-data/                 # Generated client partitions and test set
-```
-
----
-
 ## 🔄 Federated Learning Workflow
 
 From the project methodology: 
