@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Kishore V
+
 import hashlib
 import torch
 from model import HARNet
