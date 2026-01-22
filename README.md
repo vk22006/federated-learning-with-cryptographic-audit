@@ -60,7 +60,7 @@ From the project methodology:
 
 ## 📊 Results
 
-Results from the evaluation table: 
+Results from the evaluation table*: 
 
 | Round | Accuracy (%) | Improvement |
 | ----- | ------------ | ----------- |
@@ -71,6 +71,7 @@ Results from the evaluation table:
 | 5     | 92.76        | +1.14       |
 
 The results show steady accuracy improvement as global updates aggregate client contributions.
+*accuracy may follow the trend but may subjected to change in indvidual values each time
 
 ---
 
